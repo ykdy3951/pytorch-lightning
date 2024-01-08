@@ -6,6 +6,7 @@ lightning_logs/
 
 ### data ###
 data/
+MNIST/
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
